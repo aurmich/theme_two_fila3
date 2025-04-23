@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+<<<<<<< HEAD
 export default {
   content: [
     "./resources/**/*.blade.php",
@@ -46,3 +47,24 @@ export default {
   ],
 }
 
+=======
+module.exports = {
+    content: [
+        './resources/**/*.blade.php',
+        './resources/**/*.js',
+        './resources/**/*.vue',
+        './app/Filament/Blocks/*.php',
+    ],
+    theme: {
+        extend: {
+            maxWidth: {
+                'wide': '1200px',
+            },
+        },
+    },
+    plugins: [
+        require('@tailwindcss/forms'),
+        require('@tailwindcss/typography'),
+    ],
+};
+>>>>>>> aurmich/dev
