@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "name": "Two",
     "version": "1.0.0",
@@ -25,6 +24,3 @@
         "default": false
     }
 }
-=======
-{"name":"Two","type":"pub","description":"","keywords":[],"active":true,"order":0,"aliases":[],"files":[],"requires":[]}
->>>>>>> aurmich/dev
