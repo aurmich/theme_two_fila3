@@ -7,7 +7,11 @@ use Livewire\Component;
 
 class ContactForm extends Component
 {
+<<<<<<< HEAD
     public $first_name;
+=======
+    public $name;
+>>>>>>> aurmich/dev
 
     public $email;
 
@@ -16,7 +20,11 @@ class ContactForm extends Component
     public $quiz;
 
     protected $rules = [
+<<<<<<< HEAD
         'first_name' => 'required|max:250',
+=======
+        'name' => 'required|max:250',
+>>>>>>> aurmich/dev
         'email' => 'required|email|max:250',
         'message' => 'required',
         'quiz' => 'required',
@@ -42,7 +50,11 @@ class ContactForm extends Component
         $this->isSent = true;
 
         ContactEntry::create([
+<<<<<<< HEAD
             'first_name' => $this->first_name,
+=======
+            'name' => $this->name,
+>>>>>>> aurmich/dev
             'email' => $this->email,
             'message' => $this->message,
         ]);
