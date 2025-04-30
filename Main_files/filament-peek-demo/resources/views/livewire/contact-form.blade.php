@@ -4,11 +4,7 @@
     @else
         <form wire:submit="submit">
             <div class="mt-4">
-<<<<<<< HEAD
                 <x-input wire:model="first_name" name="first_name" label="Nome" required />
-=======
-                <x-input wire:model="name" name="name" label="Name" required />
->>>>>>> aurmich/dev
             </div>
 
             <div class="mt-4">

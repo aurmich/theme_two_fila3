@@ -9,10 +9,6 @@ class ContactEntry extends Model
     protected $fillable = [
         'email',
         'message',
-<<<<<<< HEAD
         'first_name',
-=======
-        'name',
->>>>>>> aurmich/dev
     ];
 }
