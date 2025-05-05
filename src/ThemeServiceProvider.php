@@ -1,6 +1,6 @@
 <?php
 
-namespace SaluteOra\Themes\Two;
+namespace il progetto\Themes\Two;
 
 use Illuminate\Support\ServiceProvider;
 

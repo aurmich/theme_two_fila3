@@ -3,8 +3,8 @@
 return [
     'name' => 'Two',
     'version' => '1.0.0',
-    'author' => 'SaluteOra Team',
-    'description' => 'Tema Two per SaluteOra',
+    'author' => 'il progetto Team',
+    'description' => 'Tema Two per il progetto',
     'active' => true,
     'assets' => [
         'css' => [
