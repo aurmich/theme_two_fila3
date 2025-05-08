@@ -1,20 +1,27 @@
 <?php
 
-namespace il progetto\Themes\Two;
+declare(strict_types=1);
 
-use Illuminate\Support\ServiceProvider;
+namespace Themes\Two;
 
-class ThemeServiceProvider extends ServiceProvider
+use Modules\Xot\Providers\XotBaseThemeServiceProvider;
+
+class ThemeServiceProvider extends XotBaseThemeServiceProvider
 {
-    public function register()
+    public string $name = 'Two';
+    public string $nameLower = 'two';
+    protected string $module_dir = __DIR__;
+    protected string $module_ns = __NAMESPACE__;
+
+    public function register(): void
     {
-        $this->mergeConfigFrom(
-            __DIR__.'/../config/theme.php', 'theme-two'
-        );
+        parent::register();
+        // Aggiungi qui solo logica specifica del tema
     }
 
-    public function boot()
+    public function boot(): void
     {
+        parent::boot();
         $this->loadViewsFrom(__DIR__.'/../resources/views', 'theme-two');
         $this->loadRoutesFrom(__DIR__.'/../routes/web.php');
 
