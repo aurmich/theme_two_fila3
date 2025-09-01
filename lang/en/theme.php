@@ -10,7 +10,11 @@ return [
         'about' => 'Chi Siamo',
         'services' => 'Servizi',
         'contact' => 'Contatti',
+<<<<<<< HEAD
         'login' => 'Accedi',
+=======
+        'login' => 'Login',
+>>>>>>> 54fe3e2 (.)
         'register' => 'Registrati',
         'profile' => 'Profilo',
         'logout' => 'Esci',
@@ -21,6 +25,7 @@ return [
         'back_to_top' => 'Torna su',
     ],
     'form' => [
+<<<<<<< HEAD
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
         'min' => 'Il campo deve contenere almeno :min caratteri',
@@ -36,6 +41,23 @@ return [
         'reset' => 'Reimposta',
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
+=======
+        'required' => 'Required field',
+        'email' => 'Please enter a valid email address',
+        'min' => 'The field must contain at least :min characters',
+        'max' => 'The field may not exceed :max characters',
+        'submit' => 'Submit',
+        'cancel' => 'Cancel',
+        'save' => 'Save',
+        'delete' => 'Delete',
+        'edit' => 'Edit',
+        'view' => 'View',
+        'search' => 'Search...',
+        'filter' => 'Filter',
+        'reset' => 'Reset',
+        'select' => 'Select',
+        'choose' => 'Choose...',
+>>>>>>> 54fe3e2 (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',

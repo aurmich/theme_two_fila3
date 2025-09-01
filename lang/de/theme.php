@@ -10,7 +10,11 @@ return [
         'about' => 'Chi Siamo',
         'services' => 'Servizi',
         'contact' => 'Contatti',
+<<<<<<< HEAD
         'login' => 'Accedi',
+=======
+        'login' => 'Anmelden',
+>>>>>>> 54fe3e2 (.)
         'register' => 'Registrati',
         'profile' => 'Profilo',
         'logout' => 'Esci',
@@ -21,6 +25,7 @@ return [
         'back_to_top' => 'Torna su',
     ],
     'form' => [
+<<<<<<< HEAD
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
         'min' => 'Il campo deve contenere almeno :min caratteri',
@@ -36,6 +41,23 @@ return [
         'reset' => 'Reimposta',
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
+=======
+        'required' => 'Pflichtfeld',
+        'email' => 'Bitte geben Sie eine gültige E-Mail-Adresse ein',
+        'min' => 'Das Feld muss mindestens :min Zeichen enthalten',
+        'max' => 'Das Feld darf :max Zeichen nicht überschreiten',
+        'submit' => 'Senden',
+        'cancel' => 'Abbrechen',
+        'save' => 'Speichern',
+        'delete' => 'Löschen',
+        'edit' => 'Bearbeiten',
+        'view' => 'Anzeigen',
+        'search' => 'Suchen...',
+        'filter' => 'Filtern',
+        'reset' => 'Zurücksetzen',
+        'select' => 'Auswählen',
+        'choose' => 'Wählen...',
+>>>>>>> 54fe3e2 (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',

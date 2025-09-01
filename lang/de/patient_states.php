@@ -43,4 +43,11 @@ return [
         'label' => 'Integration storniert',
         'color' => 'danger',
     ],
+<<<<<<< HEAD
+=======
+    'suspended' => [
+        'label' => 'Suspendiert',
+        'color' => 'warning',
+    ],
+>>>>>>> 54fe3e2 (.)
 ];
