@@ -12,6 +12,7 @@ return [
         'contact' => 'Contatti',
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         'login' => 'Accedi',
 =======
         'login' => 'Anmelden',
@@ -22,6 +23,9 @@ return [
         'login' => 'Accedi',
 >>>>>>> ea6ff28 (.)
 >>>>>>> 4144434 (.)
+=======
+        'login' => 'Accedi',
+>>>>>>> 9387404 (.)
         'register' => 'Registrati',
         'profile' => 'Profilo',
         'logout' => 'Esci',
@@ -32,6 +36,7 @@ return [
         'back_to_top' => 'Torna su',
     ],
     'form' => [
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         'required' => 'Campo obbligatorio',
@@ -71,6 +76,8 @@ return [
 >>>>>>> 54fe3e2 (.)
 =======
 =======
+=======
+>>>>>>> 9387404 (.)
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
         'min' => 'Il campo deve contenere almeno :min caratteri',
@@ -86,8 +93,11 @@ return [
         'reset' => 'Reimposta',
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
+<<<<<<< HEAD
 >>>>>>> ea6ff28 (.)
 >>>>>>> 4144434 (.)
+=======
+>>>>>>> 9387404 (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',

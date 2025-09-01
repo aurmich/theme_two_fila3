@@ -19,6 +19,7 @@
         "php": "^8.1",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "laravel/framework": "*",
         "filament/filament": "*"
     },
@@ -37,6 +38,8 @@
         "filament/filament": "^3.4"
     }
 =======
+=======
+>>>>>>> 9387404 (.)
         "laravel/framework": "*",
         "filament/filament": "*"
     },
@@ -45,6 +48,9 @@
         "pestphp/pest": "^2.0"
     },
     "minimum-stability": "dev"
+<<<<<<< HEAD
 >>>>>>> ea6ff28 (.)
 >>>>>>> 4144434 (.)
+=======
+>>>>>>> 9387404 (.)
 }

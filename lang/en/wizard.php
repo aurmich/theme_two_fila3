@@ -6,6 +6,7 @@ return [
     'submit' => [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         'label' => 'Concludi',
 =======
         'label' => 'Finish',
@@ -16,5 +17,8 @@ return [
         'label' => 'Concludi',
 >>>>>>> ea6ff28 (.)
 >>>>>>> 4144434 (.)
+=======
+        'label' => 'Concludi',
+>>>>>>> 9387404 (.)
     ],
 ];

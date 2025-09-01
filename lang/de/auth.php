@@ -6,6 +6,7 @@ return [
     'login' => [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         'title' => 'Accedi al tuo account',
         'or' => 'oppure',
         'create_account' => 'crea un nuovo account',
@@ -31,6 +32,8 @@ return [
 >>>>>>> 54fe3e2 (.)
 =======
 =======
+=======
+>>>>>>> 9387404 (.)
         'title' => 'Accedi al tuo account',
         'or' => 'oppure',
         'create_account' => 'crea un nuovo account',
@@ -40,13 +43,17 @@ return [
         'password' => 'Password',
         'remember_me' => 'Ricordami',
         'login_button' => 'Accedi',
+<<<<<<< HEAD
 >>>>>>> ea6ff28 (.)
 >>>>>>> 4144434 (.)
+=======
+>>>>>>> 9387404 (.)
     ],
     'register' => [
         'title' => 'Crea il tuo account',
         'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\">SaluteOra</span>',
         'description' => 'Crea il tuo account per accedere a tutti i servizi',
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         'already_have_account' => 'Hai già un account?',
@@ -63,6 +70,10 @@ return [
         'login_link' => 'accedi qui',
 >>>>>>> ea6ff28 (.)
 >>>>>>> 4144434 (.)
+=======
+        'already_have_account' => 'Hai già un account?',
+        'login_link' => 'accedi qui',
+>>>>>>> 9387404 (.)
         'register_button' => 'Registrati',
         'already_registered' => 'Sei già registrato?',
         'doctor' => [
@@ -127,6 +138,7 @@ return [
         'validation' => [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             'name_required' => 'Il nome è obbligatorio',
             'email_required' => 'L\'email è obbligatoria',
             'email_email' => 'L\'email deve essere valida',
@@ -152,6 +164,8 @@ return [
 >>>>>>> 54fe3e2 (.)
 =======
 =======
+=======
+>>>>>>> 9387404 (.)
             'name_required' => 'Il nome è obbligatorio',
             'email_required' => 'L\'email è obbligatoria',
             'email_email' => 'L\'email deve essere valida',
@@ -161,8 +175,11 @@ return [
             'password_confirmed' => 'Le password non coincidono',
             'terms_required' => 'Devi accettare i termini e le condizioni',
             'privacy_required' => 'Devi accettare la privacy policy',
+<<<<<<< HEAD
 >>>>>>> ea6ff28 (.)
 >>>>>>> 4144434 (.)
+=======
+>>>>>>> 9387404 (.)
         ],
         'success' => [
             'title' => 'Registrazione completata',

@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 declare(strict_types=1);
 
@@ -12,6 +13,8 @@ declare(strict_types=1);
 =======
 >>>>>>> ea6ff28 (.)
 >>>>>>> 4144434 (.)
+=======
+>>>>>>> 9387404 (.)
 return [
     'submit' => [
         'label' => 'Concludi',
