@@ -11,8 +11,11 @@ return [
         'services' => 'Servizi',
         'contact' => 'Contatti',
 
-        'login' => 'Anmelden',
+=======
+        'login' => 'Login',
+=======
         'login' => 'Accedi',
+=======
         'login' => 'Accedi',
         'register' => 'Registrati',
         'profile' => 'Profilo',
@@ -25,22 +28,25 @@ return [
     ],
     'form' => [
 
-        'required' => 'Pflichtfeld',
-        'email' => 'Bitte geben Sie eine gültige E-Mail-Adresse ein',
-        'min' => 'Das Feld muss mindestens :min Zeichen enthalten',
-        'max' => 'Das Feld darf :max Zeichen nicht überschreiten',
-        'submit' => 'Senden',
-        'cancel' => 'Abbrechen',
-        'save' => 'Speichern',
-        'delete' => 'Löschen',
-        'edit' => 'Bearbeiten',
-        'view' => 'Anzeigen',
-        'search' => 'Suchen...',
-        'filter' => 'Filtern',
-        'reset' => 'Zurücksetzen',
-        'select' => 'Auswählen',
-        'choose' => 'Wählen...',
+        'required' => 'Required field',
+        'email' => 'Please enter a valid email address',
+        'min' => 'The field must contain at least :min characters',
+        'max' => 'The field may not exceed :max characters',
+        'submit' => 'Submit',
+        'cancel' => 'Cancel',
+        'save' => 'Save',
+        'delete' => 'Delete',
+        'edit' => 'Edit',
+        'view' => 'View',
+        'search' => 'Search...',
+        'filter' => 'Filter',
+        'reset' => 'Reset',
+        'select' => 'Select',
+        'choose' => 'Choose...',
 
+=======
+=======
+=======
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
         'min' => 'Il campo deve contenere almeno :min caratteri',
@@ -57,6 +63,7 @@ return [
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
 
+=======
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',
