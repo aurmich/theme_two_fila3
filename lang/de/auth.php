@@ -5,6 +5,7 @@ declare(strict_types=1);
 return [
     'login' => [
 <<<<<<< HEAD
+<<<<<<< HEAD
         'title' => 'Accedi al tuo account',
         'or' => 'oppure',
         'create_account' => 'crea un nuovo account',
@@ -15,6 +16,8 @@ return [
         'remember_me' => 'Ricordami',
         'login_button' => 'Accedi',
 =======
+=======
+>>>>>>> 4144434 (.)
         'title' => 'Anmelden bei Ihrem Konto',
         'or' => 'oder',
         'create_account' => 'neues Konto erstellen',
@@ -24,12 +27,27 @@ return [
         'password' => 'Passwort',
         'remember_me' => 'Angemeldet bleiben',
         'login_button' => 'Anmelden',
+<<<<<<< HEAD
 >>>>>>> 54fe3e2 (.)
+=======
+=======
+        'title' => 'Accedi al tuo account',
+        'or' => 'oppure',
+        'create_account' => 'crea un nuovo account',
+        'forgot_password' => 'Hai dimenticato la password?',
+        'back_to_login' => 'torna al login',
+        'email' => 'Indirizzo email',
+        'password' => 'Password',
+        'remember_me' => 'Ricordami',
+        'login_button' => 'Accedi',
+>>>>>>> ea6ff28 (.)
+>>>>>>> 4144434 (.)
     ],
     'register' => [
         'title' => 'Crea il tuo account',
         'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\">SaluteOra</span>',
         'description' => 'Crea il tuo account per accedere a tutti i servizi',
+<<<<<<< HEAD
 <<<<<<< HEAD
         'already_have_account' => 'Hai già un account?',
         'login_link' => 'accedi qui',
@@ -37,6 +55,14 @@ return [
         'already_have_account' => 'Haben Sie bereits ein Konto?',
         'login_link' => 'hier anmelden',
 >>>>>>> 54fe3e2 (.)
+=======
+        'already_have_account' => 'Haben Sie bereits ein Konto?',
+        'login_link' => 'hier anmelden',
+=======
+        'already_have_account' => 'Hai già un account?',
+        'login_link' => 'accedi qui',
+>>>>>>> ea6ff28 (.)
+>>>>>>> 4144434 (.)
         'register_button' => 'Registrati',
         'already_registered' => 'Sei già registrato?',
         'doctor' => [
@@ -100,6 +126,7 @@ return [
         ],
         'validation' => [
 <<<<<<< HEAD
+<<<<<<< HEAD
             'name_required' => 'Il nome è obbligatorio',
             'email_required' => 'L\'email è obbligatoria',
             'email_email' => 'L\'email deve essere valida',
@@ -110,6 +137,8 @@ return [
             'terms_required' => 'Devi accettare i termini e le condizioni',
             'privacy_required' => 'Devi accettare la privacy policy',
 =======
+=======
+>>>>>>> 4144434 (.)
             'name_required' => 'Der Name ist erforderlich',
             'email_required' => 'Die E-Mail-Adresse ist erforderlich',
             'email_email' => 'L\'email deve essere valida',
@@ -119,7 +148,21 @@ return [
             'password_confirmed' => 'Le password non coincidono',
             'terms_required' => 'Sie müssen die Nutzungsbedingungen akzeptieren',
             'privacy_required' => 'Sie müssen die Datenschutzerklärung akzeptieren',
+<<<<<<< HEAD
 >>>>>>> 54fe3e2 (.)
+=======
+=======
+            'name_required' => 'Il nome è obbligatorio',
+            'email_required' => 'L\'email è obbligatoria',
+            'email_email' => 'L\'email deve essere valida',
+            'email_unique' => 'Questa email è già registrata',
+            'password_required' => 'La password è obbligatoria',
+            'password_min' => 'La password deve essere di almeno 8 caratteri',
+            'password_confirmed' => 'Le password non coincidono',
+            'terms_required' => 'Devi accettare i termini e le condizioni',
+            'privacy_required' => 'Devi accettare la privacy policy',
+>>>>>>> ea6ff28 (.)
+>>>>>>> 4144434 (.)
         ],
         'success' => [
             'title' => 'Registrazione completata',
