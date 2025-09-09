@@ -5,6 +5,7 @@ declare(strict_types=1);
 return [
     'login' => [
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 3a5becd (.)
@@ -109,6 +110,8 @@ return [
             'invalid_data' => 'Ungültige Daten',
 =======
 
+=======
+>>>>>>> 54330fa (.)
         'title' => 'Accedi al tuo account',
         'or' => 'oppure',
         'create_account' => 'crea un nuovo account',
@@ -118,17 +121,11 @@ return [
         'password' => 'Password',
         'remember_me' => 'Ricordami',
         'login_button' => 'Accedi',
-
     ],
     'register' => [
         'title' => 'Crea il tuo account',
         'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\">SaluteOra</span>',
         'description' => 'Crea il tuo account per accedere a tutti i servizi',
-
-        'already_have_account' => 'Haben Sie bereits ein Konto?',
-        'login_link' => 'hier anmelden',
-        'already_have_account' => 'Hai già un account?',
-        'login_link' => 'accedi qui',
         'already_have_account' => 'Hai già un account?',
         'login_link' => 'accedi qui',
         'register_button' => 'Registrati',
@@ -193,17 +190,6 @@ return [
             'password_confirmation_placeholder' => 'Conferma la tua password',
         ],
         'validation' => [
-
-            'name_required' => 'Der Name ist erforderlich',
-            'email_required' => 'Die E-Mail-Adresse ist erforderlich',
-            'email_email' => 'L\'email deve essere valida',
-            'email_unique' => 'Questa email è già registrata',
-            'password_required' => 'Das Passwort ist erforderlich',
-            'password_min' => 'La password deve essere di almeno 8 caratteri',
-            'password_confirmed' => 'Le password non coincidono',
-            'terms_required' => 'Sie müssen die Nutzungsbedingungen akzeptieren',
-            'privacy_required' => 'Sie müssen die Datenschutzerklärung akzeptieren',
-
             'name_required' => 'Il nome è obbligatorio',
             'email_required' => 'L\'email è obbligatoria',
             'email_email' => 'L\'email deve essere valida',
@@ -213,7 +199,6 @@ return [
             'password_confirmed' => 'Le password non coincidono',
             'terms_required' => 'Devi accettare i termini e le condizioni',
             'privacy_required' => 'Devi accettare la privacy policy',
-
         ],
         'success' => [
             'title' => 'Registrazione completata',

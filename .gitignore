@@ -33,6 +33,7 @@ node_modules
 
 =======
 node_modules
+<<<<<<< HEAD
 
 # Standard ignores (auto)
 node_modules/
@@ -43,3 +44,5 @@ vendor/
 *.bakcup
 *.backup.*
 >>>>>>> 3a5becd (.)
+=======
+>>>>>>> 54330fa (.)

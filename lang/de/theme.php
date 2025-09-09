@@ -11,11 +11,14 @@ return [
         'services' => 'Servizi',
         'contact' => 'Contatti',
 <<<<<<< HEAD
+<<<<<<< HEAD
         'login' => 'Anmelden',
 =======
 
         'login' => 'Anmelden',
         'login' => 'Accedi',
+=======
+>>>>>>> 54330fa (.)
         'login' => 'Accedi',
 >>>>>>> 3a5becd (.)
         'register' => 'Registrati',
@@ -28,6 +31,7 @@ return [
         'back_to_top' => 'Torna su',
     ],
     'form' => [
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 
@@ -51,6 +55,8 @@ return [
 =======
 
 >>>>>>> 3a5becd (.)
+=======
+>>>>>>> 54330fa (.)
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
         'min' => 'Il campo deve contenere almeno :min caratteri',
@@ -67,9 +73,12 @@ return [
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 3a5becd (.)
+=======
+>>>>>>> 54330fa (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',
