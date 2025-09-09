@@ -10,15 +10,7 @@ return [
         'about' => 'Chi Siamo',
         'services' => 'Servizi',
         'contact' => 'Contatti',
-<<<<<<< HEAD
-<<<<<<< HEAD
         'login' => 'Anmelden',
-=======
-        'login' => 'Accedi',
->>>>>>> ea6ff28 (.)
-=======
-        'login' => 'Anmelden',
->>>>>>> c1b54d5 (.)
         'register' => 'Registrati',
         'profile' => 'Profilo',
         'logout' => 'Esci',
@@ -29,10 +21,6 @@ return [
         'back_to_top' => 'Torna su',
     ],
     'form' => [
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> c1b54d5 (.)
         'required' => 'Pflichtfeld',
         'email' => 'Bitte geben Sie eine gültige E-Mail-Adresse ein',
         'min' => 'Das Feld muss mindestens :min Zeichen enthalten',
@@ -48,8 +36,6 @@ return [
         'reset' => 'Zurücksetzen',
         'select' => 'Auswählen',
         'choose' => 'Wählen...',
-<<<<<<< HEAD
-=======
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
         'min' => 'Il campo deve contenere almeno :min caratteri',
@@ -65,9 +51,6 @@ return [
         'reset' => 'Reimposta',
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
->>>>>>> ea6ff28 (.)
-=======
->>>>>>> c1b54d5 (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',
