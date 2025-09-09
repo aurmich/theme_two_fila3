@@ -29,34 +29,16 @@ package-lock.json
 .git-rewrite/
 .php-cs-fixer.cache
 node_modules
-<<<<<<< HEAD
-<<<<<<< HEAD
 node_modules
-=======
-<<<<<<< HEAD
-
-=======
 node_modules
-<<<<<<< HEAD
->>>>>>> 6599847 (.)
-=======
->>>>>>> 82e032a (.)
 
 # Standard ignores (auto)
 node_modules/
 vendor/
 *.old
 *.old1
+*.old2
 *.bak
 *.bakcup
 *.backup.*
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 3a5becd (.)
-=======
->>>>>>> 54330fa (.)
->>>>>>> 6599847 (.)
-=======
 
->>>>>>> 82e032a (.)
