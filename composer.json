@@ -16,32 +16,15 @@
         }
     },
     "require": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-        "php": "^8.1",
-        "laravel/framework": "^12.0",
-        "filament/filament": "^3.4"
-    },
-    "require-dev": {
-        "phpstan/phpstan": "^1.10",
-        "pestphp/pest": "^2.0"
-=======
         "php": "^8.2",
 =======
         "php": "^8.1",
->>>>>>> 54330fa (.)
         "laravel/framework": "*",
         "filament/filament": "*"
     },
     "require-dev": {
-<<<<<<< HEAD
-        "phpstan/phpstan": "*",
-        "pestphp/pest": "*"
->>>>>>> 3a5becd (.)
-=======
         "phpstan/phpstan": "^1.10",
         "pestphp/pest": "^2.0"
->>>>>>> 54330fa (.)
     },
     "minimum-stability": "dev"
 }

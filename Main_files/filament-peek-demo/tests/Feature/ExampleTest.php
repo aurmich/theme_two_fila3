@@ -2,14 +2,7 @@
 
 namespace Tests\Feature;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 // use Illuminate\Foundation\Testing\RefreshDatabase;
-=======
->>>>>>> 3a5becd (.)
-=======
-// use Illuminate\Foundation\Testing\RefreshDatabase;
->>>>>>> 54330fa (.)
 use Tests\TestCase;
 
 class ExampleTest extends TestCase
