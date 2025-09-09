@@ -63,9 +63,13 @@ return [
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 6599847 (.)
+=======
+
+>>>>>>> 82e032a (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',

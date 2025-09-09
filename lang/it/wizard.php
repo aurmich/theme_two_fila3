@@ -1,6 +1,10 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+declare(strict_types=1);
+>>>>>>> 82e032a (.)
 
 >>>>>>> 6599847 (.)
 declare(strict_types=1);

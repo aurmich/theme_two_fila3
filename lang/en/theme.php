@@ -12,10 +12,15 @@ return [
         'contact' => 'Contatti',
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         'login' => 'Login',
         'login' => 'Accedi',
 =======
 >>>>>>> 6599847 (.)
+=======
+        'login' => 'Login',
+        'login' => 'Accedi',
+>>>>>>> 82e032a (.)
         'login' => 'Accedi',
         'register' => 'Registrati',
         'profile' => 'Profilo',
@@ -63,9 +68,13 @@ return [
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 6599847 (.)
+=======
+
+>>>>>>> 82e032a (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',
