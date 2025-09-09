@@ -43,8 +43,16 @@ return [
         'label' => 'Integrazione annullata',
         'color' => 'danger',
     ],
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3a5becd (.)
     'suspended' => [
         'label' => 'Sospeso',
         'color' => 'warning',
     ],
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3a5becd (.)
 ];

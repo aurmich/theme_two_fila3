@@ -10,7 +10,14 @@ return [
         'about' => 'Chi Siamo',
         'services' => 'Servizi',
         'contact' => 'Contatti',
+<<<<<<< HEAD
         'login' => 'Login',
+=======
+
+        'login' => 'Login',
+        'login' => 'Accedi',
+        'login' => 'Accedi',
+>>>>>>> 3a5becd (.)
         'register' => 'Registrati',
         'profile' => 'Profilo',
         'logout' => 'Esci',
@@ -21,6 +28,10 @@ return [
         'back_to_top' => 'Torna su',
     ],
     'form' => [
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3a5becd (.)
         'required' => 'Required field',
         'email' => 'Please enter a valid email address',
         'min' => 'The field must contain at least :min characters',
@@ -36,6 +47,10 @@ return [
         'reset' => 'Reset',
         'select' => 'Select',
         'choose' => 'Choose...',
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3a5becd (.)
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
         'min' => 'Il campo deve contenere almeno :min caratteri',
@@ -51,6 +66,10 @@ return [
         'reset' => 'Reimposta',
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3a5becd (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',
