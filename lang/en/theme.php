@@ -11,10 +11,14 @@ return [
         'services' => 'Servizi',
         'contact' => 'Contatti',
 <<<<<<< HEAD
+<<<<<<< HEAD
         'login' => 'Login',
 =======
         'login' => 'Accedi',
 >>>>>>> ea6ff28 (.)
+=======
+        'login' => 'Login',
+>>>>>>> c1b54d5 (.)
         'register' => 'Registrati',
         'profile' => 'Profilo',
         'logout' => 'Esci',
@@ -26,6 +30,9 @@ return [
     ],
     'form' => [
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> c1b54d5 (.)
         'required' => 'Required field',
         'email' => 'Please enter a valid email address',
         'min' => 'The field must contain at least :min characters',
@@ -41,6 +48,7 @@ return [
         'reset' => 'Reset',
         'select' => 'Select',
         'choose' => 'Choose...',
+<<<<<<< HEAD
 =======
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
@@ -58,6 +66,8 @@ return [
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
 >>>>>>> ea6ff28 (.)
+=======
+>>>>>>> c1b54d5 (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',
