@@ -48,5 +48,8 @@ return [
         'label' => 'Suspendiert',
         'color' => 'warning',
     ],
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6599847 (.)
 ];

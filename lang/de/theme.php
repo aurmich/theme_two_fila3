@@ -11,8 +11,11 @@ return [
         'services' => 'Servizi',
         'contact' => 'Contatti',
 
+<<<<<<< HEAD
         'login' => 'Anmelden',
         'login' => 'Accedi',
+=======
+>>>>>>> 6599847 (.)
         'login' => 'Accedi',
         'register' => 'Registrati',
         'profile' => 'Profilo',
@@ -40,7 +43,10 @@ return [
         'reset' => 'Zurücksetzen',
         'select' => 'Auswählen',
         'choose' => 'Wählen...',
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6599847 (.)
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
         'min' => 'Il campo deve contenere almeno :min caratteri',
@@ -56,7 +62,10 @@ return [
         'reset' => 'Reimposta',
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6599847 (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',
