@@ -30,6 +30,7 @@ package-lock.json
 .php-cs-fixer.cache
 node_modules
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 node_modules
@@ -46,3 +47,6 @@ vendor/
 >>>>>>> 3a5becd (.)
 =======
 >>>>>>> 54330fa (.)
+=======
+node_modules
+>>>>>>> e908b34 (.)

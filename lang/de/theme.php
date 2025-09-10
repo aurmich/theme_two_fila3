@@ -10,8 +10,27 @@ return [
         'about' => 'Chi Siamo',
         'services' => 'Servizi',
         'contact' => 'Contatti',
+<<<<<<< HEAD
 
         'login' => 'Accedi',
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+        'login' => 'Accedi',
+=======
+        'login' => 'Anmelden',
+>>>>>>> 54fe3e2 (.)
+=======
+        'login' => 'Anmelden',
+=======
+        'login' => 'Accedi',
+>>>>>>> ea6ff28 (.)
+>>>>>>> 4144434 (.)
+=======
+        'login' => 'Accedi',
+>>>>>>> 9387404 (.)
+>>>>>>> e908b34 (.)
         'register' => 'Registrati',
         'profile' => 'Profilo',
         'logout' => 'Esci',
@@ -22,6 +41,7 @@ return [
         'back_to_top' => 'Torna su',
     ],
     'form' => [
+<<<<<<< HEAD
 
         'required' => 'Pflichtfeld',
         'email' => 'Bitte geben Sie eine gültige E-Mail-Adresse ein',
@@ -38,6 +58,11 @@ return [
         'reset' => 'Zurücksetzen',
         'select' => 'Auswählen',
         'choose' => 'Wählen...',
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> e908b34 (.)
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
         'min' => 'Il campo deve contenere almeno :min caratteri',
@@ -53,6 +78,53 @@ return [
         'reset' => 'Reimposta',
         'select' => 'Seleziona',
         'choose' => 'Scegli...',
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> 4144434 (.)
+        'required' => 'Pflichtfeld',
+        'email' => 'Bitte geben Sie eine gültige E-Mail-Adresse ein',
+        'min' => 'Das Feld muss mindestens :min Zeichen enthalten',
+        'max' => 'Das Feld darf :max Zeichen nicht überschreiten',
+        'submit' => 'Senden',
+        'cancel' => 'Abbrechen',
+        'save' => 'Speichern',
+        'delete' => 'Löschen',
+        'edit' => 'Bearbeiten',
+        'view' => 'Anzeigen',
+        'search' => 'Suchen...',
+        'filter' => 'Filtern',
+        'reset' => 'Zurücksetzen',
+        'select' => 'Auswählen',
+        'choose' => 'Wählen...',
+<<<<<<< HEAD
+>>>>>>> 54fe3e2 (.)
+=======
+=======
+=======
+>>>>>>> 9387404 (.)
+        'required' => 'Campo obbligatorio',
+        'email' => 'Inserisci un indirizzo email valido',
+        'min' => 'Il campo deve contenere almeno :min caratteri',
+        'max' => 'Il campo non può superare :max caratteri',
+        'submit' => 'Invia',
+        'cancel' => 'Annulla',
+        'save' => 'Salva',
+        'delete' => 'Elimina',
+        'edit' => 'Modifica',
+        'view' => 'Visualizza',
+        'search' => 'Cerca...',
+        'filter' => 'Filtra',
+        'reset' => 'Reimposta',
+        'select' => 'Seleziona',
+        'choose' => 'Scegli...',
+<<<<<<< HEAD
+>>>>>>> ea6ff28 (.)
+>>>>>>> 4144434 (.)
+=======
+>>>>>>> 9387404 (.)
+>>>>>>> e908b34 (.)
     ],
     'messages' => [
         'success' => 'Operazione completata con successo',
