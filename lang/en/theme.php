@@ -5,44 +5,22 @@ declare(strict_types=1);
 return [
     'nav' => [
         'menu' => 'Menu',
-        'close' => 'Chiudi',
+        'close' => 'Close',
         'home' => 'Home',
-        'about' => 'Chi Siamo',
-        'services' => 'Servizi',
-        'contact' => 'Contatti',
-<<<<<<< HEAD
-
-        'login' => 'Accedi',
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-        'login' => 'Accedi',
-=======
+        'about' => 'About Us',
+        'services' => 'Services',
+        'contact' => 'Contact',
         'login' => 'Login',
->>>>>>> 54fe3e2 (.)
-=======
-        'login' => 'Login',
-=======
-        'login' => 'Accedi',
->>>>>>> ea6ff28 (.)
->>>>>>> 4144434 (.)
-=======
-        'login' => 'Accedi',
->>>>>>> 9387404 (.)
->>>>>>> e908b34 (.)
-        'register' => 'Registrati',
-        'profile' => 'Profilo',
-        'logout' => 'Esci',
-        'search' => 'Cerca',
-        'toggle_menu' => 'Apri/Chiudi Menu',
-        'toggle_search' => 'Apri/Chiudi Ricerca',
-        'toggle_theme' => 'Cambia Tema',
-        'back_to_top' => 'Torna su',
+        'register' => 'Register',
+        'profile' => 'Profile',
+        'logout' => 'Logout',
+        'search' => 'Search',
+        'toggle_menu' => 'Toggle Menu',
+        'toggle_search' => 'Toggle Search',
+        'toggle_theme' => 'Toggle Theme',
+        'back_to_top' => 'Back to Top',
     ],
     'form' => [
-<<<<<<< HEAD
-
         'required' => 'Required field',
         'email' => 'Please enter a valid email address',
         'min' => 'The field must contain at least :min characters',
@@ -58,95 +36,28 @@ return [
         'reset' => 'Reset',
         'select' => 'Select',
         'choose' => 'Choose...',
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> e908b34 (.)
-        'required' => 'Campo obbligatorio',
-        'email' => 'Inserisci un indirizzo email valido',
-        'min' => 'Il campo deve contenere almeno :min caratteri',
-        'max' => 'Il campo non può superare :max caratteri',
-        'submit' => 'Invia',
-        'cancel' => 'Annulla',
-        'save' => 'Salva',
-        'delete' => 'Elimina',
-        'edit' => 'Modifica',
-        'view' => 'Visualizza',
-        'search' => 'Cerca...',
-        'filter' => 'Filtra',
-        'reset' => 'Reimposta',
-        'select' => 'Seleziona',
-        'choose' => 'Scegli...',
-<<<<<<< HEAD
-=======
-=======
-=======
->>>>>>> 4144434 (.)
-        'required' => 'Required field',
-        'email' => 'Please enter a valid email address',
-        'min' => 'The field must contain at least :min characters',
-        'max' => 'The field may not exceed :max characters',
-        'submit' => 'Submit',
-        'cancel' => 'Cancel',
-        'save' => 'Save',
-        'delete' => 'Delete',
-        'edit' => 'Edit',
-        'view' => 'View',
-        'search' => 'Search...',
-        'filter' => 'Filter',
-        'reset' => 'Reset',
-        'select' => 'Select',
-        'choose' => 'Choose...',
-<<<<<<< HEAD
->>>>>>> 54fe3e2 (.)
-=======
-=======
-=======
->>>>>>> 9387404 (.)
-        'required' => 'Campo obbligatorio',
-        'email' => 'Inserisci un indirizzo email valido',
-        'min' => 'Il campo deve contenere almeno :min caratteri',
-        'max' => 'Il campo non può superare :max caratteri',
-        'submit' => 'Invia',
-        'cancel' => 'Annulla',
-        'save' => 'Salva',
-        'delete' => 'Elimina',
-        'edit' => 'Modifica',
-        'view' => 'Visualizza',
-        'search' => 'Cerca...',
-        'filter' => 'Filtra',
-        'reset' => 'Reimposta',
-        'select' => 'Seleziona',
-        'choose' => 'Scegli...',
-<<<<<<< HEAD
->>>>>>> ea6ff28 (.)
->>>>>>> 4144434 (.)
-=======
->>>>>>> 9387404 (.)
->>>>>>> e908b34 (.)
     ],
     'messages' => [
-        'success' => 'Operazione completata con successo',
-        'error' => 'Si è verificato un errore',
-        'warning' => 'Attenzione',
-        'info' => 'Informazione',
-        'loading' => 'Caricamento in corso...',
-        'no_results' => 'Nessun risultato trovato',
-        'confirm_delete' => 'Sei sicuro di voler eliminare questo elemento?',
-        'yes' => 'Sì',
+        'success' => 'Operation completed successfully',
+        'error' => 'An error occurred',
+        'warning' => 'Warning',
+        'info' => 'Information',
+        'loading' => 'Loading...',
+        'no_results' => 'No results found',
+        'confirm_delete' => 'Are you sure you want to delete this item?',
+        'yes' => 'Yes',
         'no' => 'No',
-        'cookie_consent' => 'Questo sito utilizza i cookie per migliorare la tua esperienza',
-        'accept' => 'Accetta',
-        'decline' => 'Rifiuta',
+        'cookie_consent' => 'This site uses cookies to improve your experience',
+        'accept' => 'Accept',
+        'decline' => 'Decline',
     ],
     'footer' => [
-        'copyright' => 'Tutti i diritti riservati',
+        'copyright' => 'All rights reserved',
         'privacy' => 'Privacy',
-        'terms' => 'Termini e Condizioni',
+        'terms' => 'Terms and Conditions',
         'cookies' => 'Cookie Policy',
         'social' => [
-            'follow' => 'Seguici su',
+            'follow' => 'Follow us on',
             'facebook' => 'Facebook',
             'twitter' => 'Twitter',
             'instagram' => 'Instagram',
@@ -155,20 +66,20 @@ return [
     ],
     'errors' => [
         404 => [
-            'title' => 'Pagina non trovata',
-            'message' => 'La pagina che stai cercando non esiste',
+            'title' => 'Page not found',
+            'message' => 'The page you are looking for does not exist',
         ],
         500 => [
-            'title' => 'Errore del server',
-            'message' => 'Si è verificato un errore interno del server',
+            'title' => 'Server error',
+            'message' => 'An internal server error occurred',
         ],
         403 => [
-            'title' => 'Accesso negato',
-            'message' => 'Non hai i permessi per accedere a questa pagina',
+            'title' => 'Access denied',
+            'message' => 'You do not have permission to access this page',
         ],
         'offline' => [
             'title' => 'Offline',
-            'message' => 'Non sei connesso a Internet',
+            'message' => 'You are not connected to the Internet',
         ],
     ],
 ];
