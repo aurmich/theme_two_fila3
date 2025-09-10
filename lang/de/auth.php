@@ -15,18 +15,32 @@ return [
         'login_button' => 'Anmelden',
     ],
     'register' => [
+<<<<<<< HEAD
         'title' => 'Konto erstellen',
         'welcome_message' => 'Willkommen bei <span class=\"font-bold\">SaluteOra</span>',
         'description' => 'Erstellen Sie Ihr Konto, um auf alle Dienste zuzugreifen',
+=======
+        'title' => 'Crea il tuo account',
+        'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\"></span>',
+        'description' => 'Crea il tuo account per accedere a tutti i servizi',
+
+>>>>>>> b6f1495 (.)
         'already_have_account' => 'Haben Sie bereits ein Konto?',
         'login_link' => 'hier anmelden',
         'register_button' => 'Registrieren',
         'already_registered' => 'Bereits registriert?',
         'doctor' => [
+<<<<<<< HEAD
             'title' => 'Zahnarzt-Registrierung',
             'subtitle' => 'Erstellen Sie Ihr professionelles Konto für den Zugang zur SaluteOra-Plattform',
             'description' => 'Registrieren Sie sich als Arzt, um Ihre Patienten und Termine zu verwalten',
             'welcome_message' => 'Willkommen bei <span class=\"font-bold\">SaluteOra</span>',
+=======
+            'title' => 'Registrazione Odontoiatra',
+            'subtitle' => 'Crea il tuo account professionale per accedere alla piattaforma ',
+            'description' => 'Registrati come dottore per gestire i tuoi pazienti e appuntamenti',
+            'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\"></span>',
+>>>>>>> b6f1495 (.)
             'info' => [
                 'title' => 'Berufliche Informationen',
                 'message' => 'Vervollständigen Sie die beruflichen Informationen, um Ihre Identität und Spezialisierung zu überprüfen',
@@ -44,6 +58,7 @@ return [
             'register_button' => 'Als Arzt registrieren',
         ],
         'patient' => [
+<<<<<<< HEAD
             'title' => 'Patienten-Registrierung',
             'subtitle' => 'Erstellen Sie Ihr Konto, um Termine zu buchen und Ihre Gesundheit zu verwalten',
             'description' => 'Registrieren Sie sich als Patient, um auf Gesundheitsdienste zuzugreifen',
@@ -70,6 +85,34 @@ return [
             'terms_acceptance' => 'Ich akzeptiere die Allgemeinen Geschäftsbedingungen',
             'privacy_policy' => 'Ich akzeptiere die Datenschutzerklärung',
             'register_button' => 'Als Administrator registrieren',
+=======
+            'title' => 'Registrazione Paziente',
+            'subtitle' => 'Crea il tuo account per prenotare appuntamenti e gestire la tua salute',
+            'description' => 'Registrati come paziente per accedere ai servizi sanitari',
+            'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\"></span>',
+            'phone_label' => 'Numero di telefono',
+            'phone_placeholder' => 'Inserisci il tuo numero di telefono',
+            'date_of_birth_label' => 'Data di nascita',
+            'date_of_birth_placeholder' => 'Seleziona la tua data di nascita',
+            'gender_label' => 'Sesso',
+            'gender_placeholder' => 'Seleziona il tuo sesso',
+            'terms_acceptance' => 'Accetto i termini e le condizioni',
+            'privacy_policy' => 'Accetto la privacy policy',
+            'register_button' => 'Registrati come Paziente',
+        ],
+        'admin' => [
+            'title' => 'Registrazione Amministratore',
+            'subtitle' => 'Crea il tuo account amministrativo per gestire la piattaforma',
+            'description' => 'Registrati come amministratore per gestire utenti e configurazioni',
+            'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\"></span>',
+            'role_label' => 'Ruolo amministrativo',
+            'role_placeholder' => 'Seleziona il tuo ruolo',
+            'phone_label' => 'Numero di telefono',
+            'phone_placeholder' => 'Inserisci il tuo numero di telefono',
+            'terms_acceptance' => 'Accetto i termini e le condizioni',
+            'privacy_policy' => 'Accetto la privacy policy',
+            'register_button' => 'Registrati come Amministratore',
+>>>>>>> b6f1495 (.)
         ],
         'fields' => [
             'name_label' => 'Vollständiger Name',

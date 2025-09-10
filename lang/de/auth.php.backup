@@ -3,12 +3,21 @@
 declare(strict_types=1);
 
 return [
-    /*
-    |--------------------------------------------------------------------------
-    | Autenticazione
-    |--------------------------------------------------------------------------
-    */
     'login' => [
+
+        'title' => 'Anmelden bei Ihrem Konto',
+        'or' => 'oder',
+        'create_account' => 'neues Konto erstellen',
+        'forgot_password' => 'Passwort vergessen?',
+        'back_to_login' => 'zurück zum Login',
+        'email' => 'E-Mail-Adresse',
+        'password' => 'Passwort',
+        'remember_me' => 'Angemeldet bleiben',
+        'login_button' => 'Anmelden',
+
+=======
+=======
+=======
         'title' => 'Accedi al tuo account',
         'or' => 'oppure',
         'create_account' => 'crea un nuovo account',
@@ -18,12 +27,21 @@ return [
         'password' => 'Password',
         'remember_me' => 'Ricordami',
         'login_button' => 'Accedi',
-    ],
 
+=======
+    ],
     'register' => [
         'title' => 'Crea il tuo account',
-        'welcome_message' => 'Benvenuto in <span class="font-bold"></span>',
+        'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\"></span>',
         'description' => 'Crea il tuo account per accedere a tutti i servizi',
+
+=======
+        'already_have_account' => 'Haben Sie bereits ein Konto?',
+        'login_link' => 'hier anmelden',
+=======
+        'already_have_account' => 'Hai già un account?',
+        'login_link' => 'accedi qui',
+=======
         'already_have_account' => 'Hai già un account?',
         'login_link' => 'accedi qui',
         'register_button' => 'Registrati',
@@ -32,7 +50,7 @@ return [
             'title' => 'Registrazione Odontoiatra',
             'subtitle' => 'Crea il tuo account professionale per accedere alla piattaforma ',
             'description' => 'Registrati come dottore per gestire i tuoi pazienti e appuntamenti',
-            'welcome_message' => 'Benvenuto in <span class="font-bold"></span>',
+            'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\"></span>',
             'info' => [
                 'title' => 'Informazioni Professionali',
                 'message' => 'Completa le informazioni professionali per verificare la tua identità e specializzazione',
@@ -53,7 +71,7 @@ return [
             'title' => 'Registrazione Paziente',
             'subtitle' => 'Crea il tuo account per prenotare appuntamenti e gestire la tua salute',
             'description' => 'Registrati come paziente per accedere ai servizi sanitari',
-            'welcome_message' => 'Benvenuto in <span class="font-bold"></span>',
+            'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\"></span>',
             'phone_label' => 'Numero di telefono',
             'phone_placeholder' => 'Inserisci il tuo numero di telefono',
             'date_of_birth_label' => 'Data di nascita',
@@ -68,7 +86,7 @@ return [
             'title' => 'Registrazione Amministratore',
             'subtitle' => 'Crea il tuo account amministrativo per gestire la piattaforma',
             'description' => 'Registrati come amministratore per gestire utenti e configurazioni',
-            'welcome_message' => 'Benvenuto in <span class="font-bold"></span>',
+            'welcome_message' => 'Benvenuto in <span class=\\\"font-bold\\\"></span>',
             'role_label' => 'Ruolo amministrativo',
             'role_placeholder' => 'Seleziona il tuo ruolo',
             'phone_label' => 'Numero di telefono',
@@ -88,6 +106,20 @@ return [
             'password_confirmation_placeholder' => 'Conferma la tua password',
         ],
         'validation' => [
+
+            'name_required' => 'Der Name ist erforderlich',
+            'email_required' => 'Die E-Mail-Adresse ist erforderlich',
+            'email_email' => 'L\'email deve essere valida',
+            'email_unique' => 'Questa email è già registrata',
+            'password_required' => 'Das Passwort ist erforderlich',
+            'password_min' => 'La password deve essere di almeno 8 caratteri',
+            'password_confirmed' => 'Le password non coincidono',
+            'terms_required' => 'Sie müssen die Nutzungsbedingungen akzeptieren',
+            'privacy_required' => 'Sie müssen die Datenschutzerklärung akzeptieren',
+
+=======
+=======
+=======
             'name_required' => 'Il nome è obbligatorio',
             'email_required' => 'L\'email è obbligatoria',
             'email_email' => 'L\'email deve essere valida',
@@ -97,6 +129,8 @@ return [
             'password_confirmed' => 'Le password non coincidono',
             'terms_required' => 'Devi accettare i termini e le condizioni',
             'privacy_required' => 'Devi accettare la privacy policy',
+
+=======
         ],
         'success' => [
             'title' => 'Registrazione completata',
@@ -110,7 +144,6 @@ return [
             'invalid_data' => 'Dati non validi',
         ],
     ],
-
     'password' => [
         'reset' => [
             'title' => 'Reimposta password',
@@ -152,52 +185,44 @@ return [
             ],
         ],
     ],
-
     'password-reset' => [
         'submit' => [
             'label' => 'Invia link di reset password',
         ],
     ],
-
     'confirm' => [
         'title' => 'Conferma password',
         'description' => 'Inserisci la tua password per confermare l\'identità',
     ],
-
     'new' => [
         'title' => 'Nuova password',
         'password_label' => 'Nuova password',
         'confirm_password_label' => 'Conferma nuova password',
         'update_button' => 'Aggiorna password',
     ],
-
     'verify' => [
         'title' => 'Verifica il tuo account',
         'description' => 'Ti abbiamo inviato un\'email di verifica. Controlla la tua casella di posta.',
         'resend_button' => 'Invia nuovamente',
         'change_email' => 'Cambia indirizzo email',
     ],
-
     'logout' => [
         'title' => 'Disconnessione',
         'message' => 'Sei stato disconnesso con successo',
         'redirect_message' => 'Reindirizzamento in corso...',
     ],
-
     'thank_you' => [
         'title' => 'Grazie per la registrazione',
         'message' => 'Il tuo account è stato creato con successo',
         'continue_button' => 'Continua',
     ],
-
     'actions' => [
         'processing' => 'Elaborazione in corso...',
         'sending' => 'Invio in corso...',
         'refresh' => 'Ricarica pagina',
     ],
-
     'errors' => [
         'loading_failed' => 'Errore di caricamento',
         'please_refresh' => 'Si è verificato un errore. Ricarica la pagina e riprova.',
     ],
-]; 
+];
