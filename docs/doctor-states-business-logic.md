@@ -129,15 +129,9 @@ Il file `doctor_states.php` definisce la configurazione multilingue per tutti gl
 'active' => [
     'label' => 'Attivo',
     'color' => 'success',
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
     'description' => 'Utente attivo e operativo nel sistema',
     'icon' => 'heroicon-o-check-circle',
     'hex_color' => '#10b981',
->>>>>>> b5d5dd1 (.)
-=======
->>>>>>> 1ae1077 (.)
 ],
 
 // DOPO (risolto):
